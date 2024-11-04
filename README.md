@@ -1,7 +1,7 @@
-# Medicine Recommendation System
+# Disease Prediction and Health Recommendation System
 
 ## Overview
-The Medicine Recommendation System is an AI-driven application designed to assist users in identifying potential health conditions based on their reported symptoms. The system provides detailed information about the predicted disease, including its description, precautions, medications, dietary recommendations, and suggested workouts.
+The Disease Prediction and Health Recommendation System is an AI-driven application designed to assist users in identifying potential health conditions based on their reported symptoms. The system provides detailed information about the predicted disease, including its description, precautions, medications, dietary recommendations, and suggested workouts.
 
 ## Features
 - **Symptom Analysis:** Users can input their symptoms, and the system will predict potential diseases based on the provided information.
